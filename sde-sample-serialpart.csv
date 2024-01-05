@@ -1,0 +1,2 @@
+uuid;part_instance_id;manufacturing_date;manufacturing_country;manufacturer_part_id;customer_part_id;classification;name_at_manufacturer;name_at_customer;optional_identifier_key;optional_identifier_value
+urn:uuid:8eea5f45-0823-48ce-a4fc-c3bf1cdfa4c2;NO-159040131155901488695376;2022-02-04T14:48:54.709Z;DEU;37754B7-76;37754B7-76;component;Sensor;Sensor;van;Value
